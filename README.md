@@ -1,5 +1,5 @@
 
-## Hi, I'm Ayesha 👋
+# Hi, I'm Ayesha  Siddiq👋
 
 🎓 MS in Information Systems @ Northeastern University (Boston)  
 🤖 Aspiring AI & Data Engineer  
