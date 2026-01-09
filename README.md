@@ -6,7 +6,7 @@
 📍 Boston, MA  
 
 
-### 🚀 About Me
+## 🚀 About Me
 I am passionate about building intelligent, data-driven systems that solve real-world problems.  
 My interests lie at the intersection of **AI engineering, data engineering, and applied machine learning**, with hands-on experience in:
 
@@ -17,7 +17,7 @@ My interests lie at the intersection of **AI engineering, data engineering, and 
 
 
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 **Languages:** Python, SQL, R  
 **AI / ML:** Machine Learning, NLP, LLMs, RAG, LangChain  
 **Data:** Pandas, NumPy, PySpark, FAISS, Feature Engineering  
@@ -26,7 +26,7 @@ My interests lie at the intersection of **AI engineering, data engineering, and 
 
 
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 🔹 **Advanced Local Knowledge Search (RAG)**  
 Built a fully local RAG system using vector search, MMR, and reranking for accurate knowledge retrieval.
 
@@ -38,19 +38,11 @@ Designed a healthcare ML system for symptom analysis and doctor/drug recommendat
 
 
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 - 💼 LinkedIn: [www.linkedin.com/in/ayesha-siddiq-aa2207201](https://www.linkedin.com/in/ayesha-siddiq-aa2207201/)
 - 📧 Email: siddiq.a@northeastern.edu
 - 🌐 Portfolio: https://portfolio-ayesha-siddiq-20.vercel.app/
 
-
-
-
-## 📊 GitHub Activity
-
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaSiddiq24&show_icons=true&hide_title=true&hide=issues&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaSiddiq24&layout=compact&theme=default)
 
 
 ⭐ Always learning, building, and improving.
